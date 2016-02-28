@@ -30,9 +30,11 @@ _______________
 ## PROFESSIONAL EXPERIENCE
   
 **Teller**
+  
 2015 - present
   
-*US BANK*   Kenmore, WA
+*US BANK* 
+  Kenmore, WA
   
 *Responsibilities*
 - Provide exceptional customer service with a positive attitude both in person and on the phone
@@ -48,14 +50,15 @@ _______________
 2014 - 2015
   
 *Armenian Cultural Association of WA*   Bellevue, WA
-    Direct, coordinate and effectively plan events to develop Armenian community.
+  
+Direct, coordinate and effectively plan events to develop Armenian community.
 Responsibilities
 - Planning, organizing, promoting, facilitating and coordinating different types of events
 - Monitoring and coordinating the timeline of an event
 - Preparing event reports
 - Preparing the event budget
 - Ensuring the event venue is ready on time
-- Creating and revising plans and layouts for different -
+- Creating and revising plans and layouts for different events
 - Ensuring the event location fulfils all building, health and safety requirements
 -------------------
 **Expert at Social Department** 
