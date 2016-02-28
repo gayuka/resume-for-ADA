@@ -7,7 +7,7 @@ Address: 4026 177TH ST SE
 City: Bothell
 State: WA  Zip Code: 98034 
 Phone: 425.615.560
-Email: gamirkhanyan@outlook.com
+Email: >gamirkhanyan@outlook.com<
 website: [Gayane Amirkhanyan] (https://www.linkedin.com/in/gayane-amirkhanyan-461916ab)
 _________________________________________
 
