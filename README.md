@@ -11,15 +11,15 @@ Email: gamirkhanyan@outlook.com
 website: [Gayane Amirkhanyan] (https://www.linkedin.com/in/gayane-amirkhanyan-461916ab)
 ______________________
   
-##SUMMARY
+###SUMMARY
 *Efficient and well organized individual, who maintains a high level of accuracy with special attention to details. Flexible, able to handle many different duties and responsibilities simultaneously and at the same time prioritizing tasks to focus on the most important activities.  Works well under stress and tight deadlines. Ability to successfully communicate with people at all levels.*
 _________________
   
-##EDUCATION
+###EDUCATION
   
 2007 - 2011
   
-B.A., Economics,  *Armenian State University of Economics*
+B.A., Economics,  *Armenian State University of Economics*  Yerevan, Armenia
 _______________
   
 ##SKILLS
@@ -45,6 +45,7 @@ _______________
 - Balance cash drawer at shift beginning and ending
 - Perform all other duties assigned by supervisor
 ________________
+  
 **Event Coordinator**
   
 2014 - 2015
@@ -70,7 +71,8 @@ ____________________
 **Teller**
     2011- 2012
     **ArmSwissBank**  Yerevan, Armenia
-######Helping customers to do different transactions.
+    
+    > Helping customers to do different transactions. 
   
 *Responsibilities*
   
