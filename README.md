@@ -63,13 +63,15 @@ Responsibilities
 -------------------
 **Expert at Social Department** 
     2012 March - 2012 Dec    **The Government of the Republic of Armenia** Yerevan, Armenia
-*Responsible for the coordination, communication, and organization of social media communications and campaigns. Communicate/relay the status of both upcoming projects and those in development as well as work to ensure expected timelines are being metAdministered marketing support for all branches of the government and found ways to communicate complex functions to the general public*
+Responsible for the coordination, communication, and organization of social media communications and campaigns. Communicate/relay the status of both upcoming projects and those in development as well as work to ensure expected timelines are being metAdministered marketing support for all branches of the government and found ways to communicate complex functions to the general public
 --------------------------
 **Teller**
     2011- 2012
     **ArmSwissBank**  Yerevan, Armenia
-#########Helping customers to do different transactions.
+######Helping customers to do different transactions.
+  
 *Responsibilities*
+  
 -	Receive payment by cash, check, credit cards and vouchers
 -	Process cash withdrawals
 -	 Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change
