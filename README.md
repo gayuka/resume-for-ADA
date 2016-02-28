@@ -19,22 +19,22 @@ _________________
   
 2007 - 2011
   
-B.A., Economics,  *Armenian State University of Economics*  Yerevan, Armenia
+B.A., Economics,  *Armenian State University of Economics*  
+######Yerevan, Armenia
 _______________
   
 ##SKILLS
 -	Microsoft Office (Word, Excel, PowerPoint, Outlook)
 -	50 WPM typist, with 100% accuracy
 -	Fluent in English, Russian and native in Armenian 
-  
-##PROFESSIONAL EXPERIENCE
+______________________________
+###PROFESSIONAL EXPERIENCE
   
 **Teller**
-  
-2015 - present
+######2015 - present
   
 *US BANK* 
-  Kenmore, WA
+######Kenmore, WA
   
 *Responsibilities*
 - Provide exceptional customer service with a positive attitude both in person and on the phone
@@ -44,13 +44,15 @@ _______________
 - Follow established policies, procedures and guidelines
 - Balance cash drawer at shift beginning and ending
 - Perform all other duties assigned by supervisor
-________________
+
+  _________________________
   
 **Event Coordinator**
   
-2014 - 2015
+######2014 - 2015
   
-*Armenian Cultural Association of WA*   Bellevue, WA
+*Armenian Cultural Association of WA*   
+######Bellevue, WA
   
 Direct, coordinate and effectively plan events to develop Armenian community.
 Responsibilities
@@ -65,14 +67,17 @@ Responsibilities
 _____________________
 
 **Expert at Social Department** 
-    2012 March - 2012 Dec    **The Government of the Republic of Armenia** Yerevan, Armenia
+######2012 March - 2012 Dec
+    **The Government of the Republic of Armenia** 
+######Yerevan, Armenia
 *Responsible for the coordination, communication, and organization of social media communications and campaigns. Communicate/relay the status of both upcoming projects and those in development as well as work to ensure expected timelines are being metAdministered marketing support for all branches of the government and found ways to communicate complex functions to the general public.*
 ____________________
 **Teller**
-    2011- 2012
-    **ArmSwissBank**  Yerevan, Armenia
+######2011- 2012
+    **ArmSwissBank** 
+######Yerevan, Armenia
     
-    > Helping customers to do different transactions. 
+######Helping customers to do different transactions. 
   
 *Responsibilities*
   
