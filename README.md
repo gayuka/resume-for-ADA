@@ -10,28 +10,30 @@ Phone: 425.615.560
 Email: gamirkhanyan@outlook.com
 website: [Gayane Amirkhanyan] (https://www.linkedin.com/in/gayane-amirkhanyan-461916ab)
 _________________________________________
-
+  
 ##SUMMARY
 *Efficient and well organized individual, who maintains a high level of accuracy with special attention to details. Flexible, able to handle many different duties and responsibilities simultaneously and at the same time prioritizing tasks to focus on the most important activities.  Works well under stress and tight deadlines. Ability to successfully communicate with people at all levels. *
 __________________________
-
+  
 ##EDUCATION
-
+  
 2007 - 2011
-  B.A., Economics  *Armenian State University of Economics*
+  
+B.A., Economics,  *Armenian State University of Economics*
 _______________
-
+  
 ##SKILLS
 -	Microsoft Office (Word, Excel, PowerPoint, Outlook)
 -	50 WPM typist, with 100% accuracy
 -	Fluent in English, Russian and native in Armenian 
-
+  
 ## PROFESSIONAL EXPERIENCE
-
+  
 **Teller**
 2015 - present
-: *US BANK*   Kenmore, WA
-
+  
+*US BANK*   Kenmore, WA
+  
 *Responsibilities*
 - Provide exceptional customer service with a positive attitude both in person and on the phone
 - Contribute to a positive team environment
@@ -42,9 +44,11 @@ _______________
 - Perform all other duties assigned by supervisor
 ------------------------
 **Event Coordinator**
+  
 2014 - 2015
-: *Armenian Cultural Association of WA*   Bellevue, WA
-Direct, coordinate and effectively plan events to develop Armenian community.
+  
+*Armenian Cultural Association of WA*   Bellevue, WA
+    Direct, coordinate and effectively plan events to develop Armenian community.
 Responsibilities
 - Planning, organizing, promoting, facilitating and coordinating different types of events
 - Monitoring and coordinating the timeline of an event
@@ -55,14 +59,13 @@ Responsibilities
 - Ensuring the event location fulfils all building, health and safety requirements
 -------------------
 **Expert at Social Department** 
-2012 March - 2012 Dec
-: **The Government of the Republic of Armenia** Yerevan, Armenia
-*Responsible for the coordination, communication, and organization of social media communications and campaigns. Communicate/relay the status of both upcoming projects and those in development as well as work to ensure expected timelines are being metAdministered marketing support for all branches of the government and found ways to communicate complex functions to the general public.*
+    2012 March - 2012 Dec    **The Government of the Republic of Armenia** Yerevan, Armenia
+*Responsible for the coordination, communication, and organization of social media communications and campaigns. Communicate/relay the status of both upcoming projects and those in development as well as work to ensure expected timelines are being metAdministered marketing support for all branches of the government and found ways to communicate complex functions to the general public*
 --------------------------
 **Teller**
-2011- 2012
-: **ArmSwissBank**  Yerevan, Armenia
-Helping customers to do different transactions.
+    2011- 2012
+    **ArmSwissBank**  Yerevan, Armenia
+#########Helping customers to do different transactions.
 *Responsibilities*
 -	Receive payment by cash, check, credit cards and vouchers
 -	Process cash withdrawals
