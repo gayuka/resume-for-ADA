@@ -3,9 +3,7 @@ Includes Gayane Amirkhanyan's resume
 
 # Gayane Amirkhanyan
 ___________________
-Address: 4026 177TH ST SE
-  
-City: Bothell
+Address: 4026 177TH ST SE City: Bothell
   
 State: WA  Zip Code: 98034 
 Phone: 425.615.560
