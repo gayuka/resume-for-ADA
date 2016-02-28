@@ -1,5 +1,3 @@
-# resume-for-ADA
-Includes Gayane Amirkhanyan's resume
 
 # Gayane Amirkhanyan
 _________
@@ -17,7 +15,7 @@ _________________
   
 ###EDUCATION
   
-2007 - 2011
+######2007 - 2011
   
 B.A., Economics,  *Armenian State University of Economics*  
 ######Yerevan, Armenia
@@ -28,12 +26,13 @@ _______________
 -	50 WPM typist, with 100% accuracy
 -	Fluent in English, Russian and native in Armenian 
 ______________________________
+
 ###PROFESSIONAL EXPERIENCE
   
 **Teller**
 ######2015 - present
   
-*US BANK* 
+**US BANK** 
 ######Kenmore, WA
   
 *Responsibilities*
@@ -45,13 +44,12 @@ ______________________________
 - Balance cash drawer at shift beginning and ending
 - Perform all other duties assigned by supervisor
 
-  _________________________
+_________________________
   
 **Event Coordinator**
-  
 ######2014 - 2015
   
-*Armenian Cultural Association of WA*   
+**Armenian Cultural Association of WA**   
 ######Bellevue, WA
   
 Direct, coordinate and effectively plan events to develop Armenian community.
@@ -68,13 +66,15 @@ _____________________
 
 **Expert at Social Department** 
 ######2012 March - 2012 Dec
-    **The Government of the Republic of Armenia** 
+  
+**The Government of the Republic of Armenia** 
 ######Yerevan, Armenia
 *Responsible for the coordination, communication, and organization of social media communications and campaigns. Communicate/relay the status of both upcoming projects and those in development as well as work to ensure expected timelines are being metAdministered marketing support for all branches of the government and found ways to communicate complex functions to the general public.*
 ____________________
 **Teller**
 ######2011- 2012
-    **ArmSwissBank** 
+  
+**ArmSwissBank** 
 ######Yerevan, Armenia
     
 ######Helping customers to do different transactions. 
@@ -83,9 +83,9 @@ ____________________
   
 -	Receive payment by cash, check, credit cards and vouchers
 -	Process cash withdrawals
--	 Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change
+-	Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change
 -	Monitored all the cash reserves and ensured adequate cash reserves in all stations
--	 Issue receipts, refunds, credits, or change due to customers
+-	Issue receipts, refunds, credits, or change due to customers
 -	Perform services for customers such as ordering bank cards and checks
 -	Receive and verify loan payments, mortgage payments and utility bill payments
 -	Record all transactions promptly, accurately and in compliance with bank procedures
