@@ -25,14 +25,12 @@ _______________
 -	Microsoft Office (Word, Excel, PowerPoint, Outlook)
 -	50 WPM typist, with 100% accuracy
 -	Fluent in English, Russian and native in Armenian 
-______________________________
 
 ###PROFESSIONAL EXPERIENCE
   
 **Teller**
 ######2015 - present
-  
-**US BANK** 
+ **US BANK** 
 ######Kenmore, WA
   
 *Responsibilities*
@@ -53,7 +51,7 @@ _________________________
 ######Bellevue, WA
   
 Direct, coordinate and effectively plan events to develop Armenian community.
-Responsibilities
+  Responsibilities
 - Planning, organizing, promoting, facilitating and coordinating different types of events
 - Monitoring and coordinating the timeline of an event
 - Preparing event reports
