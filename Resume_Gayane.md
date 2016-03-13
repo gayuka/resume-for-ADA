@@ -1,7 +1,7 @@
 
-# Gayane Amirkhanyan
+  # Gayane Amirkhanyan
 _________
-Address: *4026 177TH ST SE, Bothell, WA 98012*
+  Address: *4026 177TH ST SE, Bothell, WA 98012*
   
 Phone: *425.615.5605*
   
