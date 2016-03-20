@@ -43,6 +43,24 @@ _______________
 - Perform all other duties assigned by supervisor
 
 _________________________
+
+**Physics&Math Tutor**
+######2014Feb - 2014June
+ **SEATTLE CENTRAL COLLEGE** 
+######Seattle, WA
+  
+*Responsibilities*
+
+
+Effective counseling of students and parents. Motivated students to improve their learning skills.
+Sensitive to cross cultural issues. Is attentive to students’ needs and learning challenges.
+Responsibilities:
+- Tutor students at all levels of math and physics
+- Explain complex math and physics problems 
+- Working with small groups of students as well as one on one tutoring 
+
+
+_________________________
   
 **Event Coordinator**
 ######2014 - 2015
