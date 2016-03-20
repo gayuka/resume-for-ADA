@@ -1,7 +1,7 @@
 
 # Gayane Amirkhanyan
 _________
-  Address: *4026 177TH ST SE, Bothell, WA 98012*
+  Address: *12814 126TH WAY NE APT J4, KIRKLAND, WA, 98034*
   
 Phone: *425.615.5605*
   
