@@ -28,12 +28,29 @@ _______________
 
 ###PROFESSIONAL EXPERIENCE
   
+**Lead Teller- Operation Specialist**
+######2016 - present
+ **Chase Bank** 
+######Lynnwood, WA
+_Supporting the Branch Manager and Tellers to ensure customer financial transactions are completed accurately and efficiently, while complying with all policies, procedures and regulatory banking requirements._
+<br />
+**Responsibilities:**
+-	Supporting the Branch Manager with all aspects of branch operations, including loss control, compliance and audit standards
+-	Process and assist customers with transactions  
+-	Helping customers by sharing and setting up self-service options 
+-	Helping them to be familiar with online banking and all the new technology offered by chase
+-	Introducing customers to the branch team who focus on building relationships and assisting with specialized financial needs
+-	Assist Branch Manager with scheduling, as necessary 
+-	In the absence of the Branch Manager, communicate branch priorities throughout the day 
+
+_________________________
+
 **Teller**
-######2015 - present
+######2015 - 2016
  **US BANK** 
 ######Kenmore, WA
   
-*Responsibilities*
+**Responsibilities**
 - Provide exceptional customer service with a positive attitude both in person and on the phone
 - Contribute to a positive team environment
 - Product marketing. Promote new bank products and services to customers, according to their needs
@@ -49,35 +66,15 @@ _________________________
  **SEATTLE CENTRAL COLLEGE** 
 ######Seattle, WA
   
-*Responsibilities*
-
-
-Effective counseling of students and parents. Motivated students to improve their learning skills.
-Sensitive to cross cultural issues. Is attentive to students’ needs and learning challenges.
-Responsibilities:
+_Effective counseling of students and parents. Motivated students to improve their learning skills.
+Sensitive to cross cultural issues. Is attentive to students’ needs and learning challenges._
+<br /> **Responsibilities:**
 - Tutor students at all levels of math and physics
 - Explain complex math and physics problems 
 - Working with small groups of students as well as one on one tutoring 
 
 
-_________________________
-  
-**Event Coordinator**
-######2014 - 2015
-  
-**Armenian Cultural Association of WA**   
-######Bellevue, WA
-  
-Direct, coordinate and effectively plan events to develop Armenian community.
-  Responsibilities
-- Planning, organizing, promoting, facilitating and coordinating different types of events
-- Monitoring and coordinating the timeline of an event
-- Preparing event reports
-- Preparing the event budget
-- Ensuring the event venue is ready on time
-- Creating and revising plans and layouts for different events
-- Ensuring the event location fulfils all building, health and safety requirements
-  
+
 _____________________
 
 **Expert at Social Department** 
@@ -93,9 +90,8 @@ ____________________
 **ArmSwissBank** 
 ######Yerevan, Armenia
     
-######Helping customers to do different transactions. 
-  
-*Responsibilities*
+ 
+**Responsibilities**
   
 -	Receive payment by cash, check, credit cards and vouchers
 -	Process cash withdrawals
